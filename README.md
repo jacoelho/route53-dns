@@ -1,6 +1,6 @@
 # route53-dns
 
-Create/update dns records from instance using instance credentials.
+Create/update route53 dns records using instance credentials.
 
 ## Usage
 
